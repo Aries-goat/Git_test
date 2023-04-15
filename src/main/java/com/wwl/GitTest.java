@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("wwl好帅");
         System.out.println("wwl好真的帅");
         System.out.println("帅");
+        System.out.println("master commit");
     }
 }
