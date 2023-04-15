@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("wwl好真的帅");
         System.out.println("wwl帅");
         System.out.println("master commit");
+        System.out.println("wwl帅");
+        System.out.println("hot-fix1");
     }
 }
