@@ -11,6 +11,6 @@ public class GitTest {
         System.out.println("wwl帅");
         System.out.println("master commit");
         System.out.println("wwl帅");
-        System.out.println("算是是basfga");
+        System.out.println("算是是adga");
     }
 }
